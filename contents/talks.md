@@ -1,9 +1,3 @@
-- First-prize Academic Scholarship, 2023.
+- The 1st International Conference for PhD Pioneers 2023 (RUC), invited talk, "Optimal transfer learning for kernel-based nonparametric regression".
 
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- The 2nd Conference for Chinese Statistical Association of Young Scholars (JNU), invited poster, "Towards a unified analysis of kernel-based methods under covariate shift".
