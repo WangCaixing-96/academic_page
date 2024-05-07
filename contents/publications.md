@@ -9,4 +9,4 @@
 
 - <strong>Caixing Wang</strong>, Xingdong Feng (2024). Optimal kernel quantile learning with random features. <strong>International Conference on Machine Learning (ICML)</strong>. 
 
-- Chao Wang, Xin Bing, , Xin He, <strong>Caixing Wang</strong> (2024). Optimal kernel quantile learning with random features. <strong>International Conference on Machine Learning (ICML)</strong>. 
+- Chao Wang, Xin Bing, Xin He, <strong>Caixing Wang</strong> (2024). Optimal kernel quantile learning with random features. <strong>International Conference on Machine Learning (ICML)</strong>. 
