@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This is an academic personal website template based on that of [sen li](https://senli1073.github.io/).
+This is an academic personal website template based on that of [sen li](https://github.com/senli1073/senli1073.github.io).
 
 The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
 
