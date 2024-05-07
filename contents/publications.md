@@ -1,13 +1,15 @@
 #### Journal
 
-- <strong>Caixing Wang</strong>, Tao Li, Xinyi Zhang, Xingdong Feng, Xin He (2024). Communication-efficient nonparametric quantile regression via random features. <strong>Journal of Computational and Graphical Statistics</strong>. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2308798)
+- <strong>Caixing Wang</strong>, Tao Li, Xinyi Zhang, Xingdong Feng, Xin He (2024). Communication-efficient nonparametric quantile regression via random features. <strong>Journal of Computational and Graphical Statistics</strong>. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2308798) [[Code]](https://github.com/WangCaixing-96/DisRFKQR)
 
 
-- Xingdong Feng, Qiaochu Liu, <strong>Caixing Wang</strong> (2023). A lack-of-fit test for quantile regression process models. <strong>Statistics \& Probability Letters</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167715222001936) (Alphabet ordering)
+- Xingdong Feng, Qiaochu Liu, <strong>Caixing Wang</strong> (2023). A lack-of-fit test for quantile regression process models. <strong>Statistics \& Probability Letters</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167715222001936) 
+ [[Code]](https://github.com/lqiaochu/QPLoF)
+(Alphabet ordering)
 
 #### Conference
 
-- Xingdong Feng, Xin He, <strong>Caixing Wang*</strong>, Chao Wang, Jingnan Zhang (2024). Towards a unified analysis of kernel-based methods under covariate shift. <strong>Advances in Neural Information Processing Systems (NIPS)</strong>. [[Paper]](https://openreview.net/pdf?id=yIcCkMUCtL) (Alphabet ordering, *Corresponding author)
+- Xingdong Feng, Xin He, <strong>Caixing Wang*</strong>, Chao Wang, Jingnan Zhang (2024). Towards a unified analysis of kernel-based methods under covariate shift. <strong>Advances in Neural Information Processing Systems (NIPS)</strong>. [[Paper]](https://openreview.net/pdf?id=yIcCkMUCtL) [[Code]](https://github.com/WangCaixing-96/Kernel_CS) (Alphabet ordering, *Corresponding author)
 
 - <strong>Caixing Wang</strong>, Ziliang Shen (2024). Distributed high-dimensional quantile regression: estimation efficiency and support recovery. <strong>International Conference on Machine Learning (ICML)</strong>. 
 
@@ -18,6 +20,6 @@
 
 #### Preprints
 
-- Chao Wang, <strong>Caixing Wang<sup>#<sup></strong>, Xin He, Xingdong Feng. Optimal transfer learning for kernel-based nonparametric regression. Submitted. (# equal contribution)
+- Chao Wang, <strong>Caixing Wang<sup>#<sup></strong>, Xin He, Xingdong Feng. Optimal transfer learning for kernel-based nonparametric regression. Submitted. [[Paper]](https://arxiv.org/pdf/2310.13966) (# equal contribution)
 
 - Xingdong Feng, Xin He, Yuling Jiao, Lican Kang, <strong>Caixing Wang*</strong>. Deep nonparametric quantile regression under covariate shift. Submitted. (Alphabet ordering)
