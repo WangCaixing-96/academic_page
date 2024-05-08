@@ -10,5 +10,7 @@ I am currently a Ph.D. student at School of Statistics and Management, Shanghai 
 - Quantile regression
 
 - Large-scale data analysis
+
+- Kernel methods
   
-- Statistical learning theory for kernel-based methods.
+- Statistical learning theory 
