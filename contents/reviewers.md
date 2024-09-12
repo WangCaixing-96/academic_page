@@ -1,3 +1,0 @@
-- <strong>Journal of Computational and Graphical Statistics</strong>
-
-- <strong>International Conference on Learning Representations (ICLR)</strong>
