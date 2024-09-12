@@ -25,3 +25,10 @@
 - Chao Wang, <strong>Caixing Wang<sup>#<sup></strong>, Xin He, Xingdong Feng. Optimal transfer learning for kernel-based nonparametric regression. Under review. [[Paper]](https://arxiv.org/pdf/2310.13966) (# equal contribution)
 
 - Xingdong Feng, Xin He, Yuling Jiao, Lican Kang, <strong>Caixing Wang</strong>. Deep nonparametric quantile regression under covariate shift. Under review. (Alphabet ordering)
+
+
+#### Reviewer Services
+
+- <strong>Journal of Computational and Graphical Statistics</strong>
+
+- <strong>International Conference on Learning Representations (ICLR)</strong>
