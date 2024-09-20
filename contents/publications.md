@@ -22,9 +22,11 @@
 
 #### Preprints
 
+- Xingdong Feng, Xin He, Yuling Jiao, Lican Kang, <strong>Caixing Wang</strong>. Deep nonparametric quantile regression under covariate shift. <strong>Journal of Machine Learning Research</strong>, *Revision*. (Alphabet ordering)
+
 - Chao Wang, <strong>Caixing Wang<sup>#<sup></strong>, Xin He, Xingdong Feng. Optimal transfer learning for kernel-based nonparametric regression. *Under review*. [[Paper]](https://arxiv.org/pdf/2310.13966) (# equal contribution)
 
-- Xingdong Feng, Xin He, Yuling Jiao, Lican Kang, <strong>Caixing Wang</strong>. Deep nonparametric quantile regression under covariate shift. <strong>Journal of Machine Learning Research</strong>, *Revision*. (Alphabet ordering)
+
 
 
 #### Reviewer Services
