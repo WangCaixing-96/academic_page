@@ -17,7 +17,7 @@
 
 - Chao Wang, Xin Bing, Xin He, <strong>Caixing Wang*</strong> (2024). Towards theoretical understanding of learning large-scale dependent data via random features. <strong>International Conference on Machine Learning (ICML)</strong>, *Spotlight*.  [[Paper]](https://openreview.net/pdf?id=eY4jrFe6Qc) [[Code]](https://github.com/wangchao-afk/KRR-RF-DP) (*Corresponding author)
 
-- Xingdong Feng, Xin He, <strong>Caixing Wang*</strong>, Chao Wang, Jingnan Zhang (2023). Towards a unified analysis of kernel-based methods under covariate shift. <strong>Advances in Neural Information Processing Systems (NIPS)<strong>, *Poster*. [[Paper]](https://openreview.net/pdf?id=yIcCkMUCtL) [[Code]](https://github.com/WangCaixing-96/Kernel_CS) (Alphabet ordering, *Corresponding author)
+- Xingdong Feng, Xin He, <strong>Caixing Wang*</strong>, Chao Wang, Jingnan Zhang (2023). Towards a unified analysis of kernel-based methods under covariate shift. <strong>Advances in Neural Information Processing Systems (NIPS)</strong>, *Poster*. [[Paper]](https://openreview.net/pdf?id=yIcCkMUCtL) [[Code]](https://github.com/WangCaixing-96/Kernel_CS) (Alphabet ordering, *Corresponding author)
 
 
 #### Preprints
