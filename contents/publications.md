@@ -17,14 +17,14 @@
 
 - Chao Wang, Xin Bing, Xin He, <strong>Caixing Wang*</strong> (2024). Towards theoretical understanding of learning large-scale dependent data via random features. <strong>International Conference on Machine Learning (ICML)</strong>, *Spotlight*.  [[Paper]](https://openreview.net/pdf?id=eY4jrFe6Qc) [[Code]](https://github.com/wangchao-afk/KRR-RF-DP) (*Corresponding author)
 
-- Xingdong Feng, Xin He, <strong>Caixing Wang*</strong>, Chao Wang, Jingnan Zhang (2023). Towards a unified analysis of kernel-based methods under covariate shift. <strong>Advances in Neural Information Processing Systems (NIPS)</strong>, *Poster*. [[Paper]](https://openreview.net/pdf?id=yIcCkMUCtL) [[Code]](https://github.com/WangCaixing-96/Kernel_CS) (Alphabet ordering, *Corresponding author)
+- Xingdong Feng, Xin He, <strong>Caixing Wang*</strong>, Chao Wang, Jingnan Zhang (2023). Towards a unified analysis of kernel-based methods under covariate shift. <strong>Advances in Neural Information Processing Systems (NIPS)<strong>, *Poster*. [[Paper]](https://openreview.net/pdf?id=yIcCkMUCtL) [[Code]](https://github.com/WangCaixing-96/Kernel_CS) (Alphabet ordering, *Corresponding author)
 
 
 #### Preprints
 
-- Chao Wang, <strong>Caixing Wang<sup>#<sup></strong>, Xin He, Xingdong Feng. Optimal transfer learning for kernel-based nonparametric regression. Under review. [[Paper]](https://arxiv.org/pdf/2310.13966) (# equal contribution)
+- Chao Wang, <strong>Caixing Wang<sup>#<sup></strong>, Xin He, Xingdong Feng. Optimal transfer learning for kernel-based nonparametric regression. *Under review*. [[Paper]](https://arxiv.org/pdf/2310.13966) (# equal contribution)
 
-- Xingdong Feng, Xin He, Yuling Jiao, Lican Kang, <strong>Caixing Wang</strong>. Deep nonparametric quantile regression under covariate shift. </strong>Journal of Machine Learning Research</strong>, Revision. (Alphabet ordering)
+- Xingdong Feng, Xin He, Yuling Jiao, Lican Kang, <strong>Caixing Wang</strong>. Deep nonparametric quantile regression under covariate shift. <strong>Journal of Machine Learning Research<strong>, *Revision*. (Alphabet ordering)
 
 
 #### Reviewer Services
