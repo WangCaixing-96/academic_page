@@ -26,7 +26,7 @@
 
 - Chao Wang, <strong>Caixing Wang<sup>#<sup></strong>, Xin He, Xingdong Feng. Optimal transfer learning for kernel-based nonparametric regression. *Under review*. [[Paper]](https://arxiv.org/pdf/2310.13966) (# equal contribution)
 
-- <strong>Caixing Wang</strong>, Fang Chen. Estimation of Conditional Extremiles in Reproducing Kernel Hilbert Spaces with Application to Large Commercial Banks Data. *Under review*.
+
 
 
 
