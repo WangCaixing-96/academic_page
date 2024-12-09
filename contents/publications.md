@@ -1,5 +1,7 @@
 #### Journal
 
+- Xingdong Feng, Xin He, Yuling Jiao, Lican Kang, <strong>Caixing Wang</strong>. Deep nonparametric quantile regression under covariate shift. <strong>Journal of Machine Learning Research</strong>. (Alphabet ordering)
+
 - <strong>Caixing Wang</strong>, Tao Li, Xinyi Zhang, Xingdong Feng, Xin He (2024). Communication-efficient nonparametric quantile regression via random features. <strong>Journal of Computational and Graphical Statistics</strong>. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2308798) [[Code]](https://github.com/WangCaixing-96/DisRFKQR)
 
 
@@ -22,7 +24,7 @@
 
 #### Preprints
 
-- Xingdong Feng, Xin He, Yuling Jiao, Lican Kang, <strong>Caixing Wang</strong>. Deep nonparametric quantile regression under covariate shift. <strong>Journal of Machine Learning Research</strong>, *Revision*. (Alphabet ordering)
+
 
 - Chao Wang, <strong>Caixing Wang<sup>#<sup></strong>, Xin He, Xingdong Feng. Optimal transfer learning for kernel-based nonparametric regression. *Under review*. [[Paper]](https://arxiv.org/pdf/2310.13966) (# equal contribution)
 
