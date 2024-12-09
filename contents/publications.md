@@ -26,7 +26,7 @@
 
 
 
-- Chao Wang, <strong>Caixing Wang<sup>#<sup></strong>, Xin He, Xingdong Feng. Optimal transfer learning for kernel-based nonparametric regression. *Under review*. [[Paper]](https://arxiv.org/pdf/2310.13966) (# equal contribution)
+- Chao Wang, <strong>Caixing Wang<sup>#<sup></strong>, Xin He, Xingdong Feng. Optimal transfer learning for kernel-based nonparametric regression. *Under review*. (# equal contribution) [[Paper]](https://arxiv.org/pdf/2310.13966) 
 
 
 
