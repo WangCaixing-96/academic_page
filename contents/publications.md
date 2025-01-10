@@ -39,4 +39,6 @@
 
 - <strong>Journal of Computational and Graphical Statistics</strong>
 
+- <strong>Statistica Sinica</strong>
+
 - <strong>International Conference on Learning Representations (ICLR)</strong>
