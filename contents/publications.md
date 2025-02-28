@@ -35,10 +35,7 @@
 
 #### Reviewer Services
 
-- <strong>The Annals of Applied Statistics</strong>
+- ###Journal <strong>The Annals of Applied Statistics</strong>, <strong>Journal of Computational and Graphical Statistics</strong>, <strong>Statistica Sinica</strong>
 
-- <strong>Journal of Computational and Graphical Statistics</strong>
 
-- <strong>Statistica Sinica</strong>
-
-- <strong>International Conference on Learning Representations (ICLR)</strong>
+- ###Conference <strong>International Conference on Learning Representations (ICLR)</strong>
