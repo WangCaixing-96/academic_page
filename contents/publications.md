@@ -30,7 +30,7 @@
 
 - <strong>Caixing Wang</strong>, Ziliang Shen, Shaoli Wang, Xingdong Feng. Estimation and Inference on Distributed High-Dimensional Quantile Regression: Double-Smoothing and Debiasing. *Submitted*
 
-- <strong>Caixing Wang</strong>, Generalization Properties of Robust Learning with Random Features. *Preprints*
+- <strong>Caixing Wang</strong>, Generalization Properties of Robust Learning with Random Features. *Submitted*
 
 - <strong>Caixing Wang</strong>, Distributed Learning for Adaptive and Robust Nonparametric Regression. *Preprints*
 
