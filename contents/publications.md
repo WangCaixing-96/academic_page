@@ -32,7 +32,7 @@
 
 - <strong>Caixing Wang</strong>, Generalization Properties of Robust Learning with Random Features. *Submitted*
 
-- <strong>Caixing Wang</strong>, Distributed Learning for Adaptive and Robust Nonparametric Regression. *Preprints*
+- <strong>Caixing Wang</strong>, Distributed Learning for Adaptive and Robust Nonparametric Regression. *Submitted*
 
 
 
