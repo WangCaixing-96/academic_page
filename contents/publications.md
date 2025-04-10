@@ -34,6 +34,8 @@
 
 - <strong>Caixing Wang</strong>, Distributed Learning for Adaptive and Robust Nonparametric Regression. *Submitted*
 
+- <strong>Caixing Wang</strong>, Improved Analysis for Spectral Algorithms under Weak Assumptions. *In Preparation*
+
 
 
 
