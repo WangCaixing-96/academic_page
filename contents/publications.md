@@ -46,4 +46,4 @@
 - <strong>The Annals of Applied Statistics</strong>, <strong>Journal of Computational and Graphical Statistics</strong>, <strong>Statistica Sinica</strong>, <strong>Journal of Parallel and Distributed Computing</strong>
 
 
-- <strong>International Conference on Learning Representations (ICLR)</strong>
+- <strong>International Conference on Learning Representations (ICLR)</strong>, <strong>Neural Information Processing Systems (NeurIPS)</strong>
